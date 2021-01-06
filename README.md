@@ -1,1 +1,1 @@
-# K-Nearest-Neighbour
+This program contains a number of functions written in Python that can read a csv file and return the nearest neighbours to a chosen attribute, based on the K-Nearest-Neighbour algorithm. The nearest neighbours can be calculated using the Manhattan, Euclidean or Minkowski distance algorithms
